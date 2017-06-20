@@ -21,10 +21,10 @@ which is a list of movies and creates an HTML file which visualizes all of your 
 
 within the download you'll find the following files:
 
-*media.py
-*entertainment_center.py
-*fresh_tomatoes.py
-*README.txt
+* media.py
+* entertainment_center.py
+* fresh_tomatoes.py
+* README.txt
 
 
 # BUGS AND FEATURE REQUESTS
@@ -48,5 +48,7 @@ The docs may also be run locally.
 
 
 # CREATOR
+
 -Sahil Shokeen
+
 github.com/sahilandroid19
