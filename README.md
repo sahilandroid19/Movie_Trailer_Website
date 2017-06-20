@@ -29,7 +29,7 @@ within the download you'll find the following files:
 
 # BUGS AND FEATURE REQUESTS
 
-Have a bug or a feature request? Please [open](github.com/sahilandroid19/Movie-Trailer-Website/issues/new) an issue,
+Have a bug or a feature request? Please [open](https://github.com/sahilandroid19/Movie_Trailer_Website/issues/new) an issue,
 
 
 # DOCUMENTATION
@@ -51,4 +51,4 @@ The docs may also be run locally.
 
 -Sahil Shokeen
 
-github.com/sahilandroid19
+(github.com/sahilandroid19)
