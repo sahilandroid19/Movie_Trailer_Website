@@ -10,7 +10,8 @@ class Movie():
 		self.storyline = movie_storyline
 		self.poster_image_url = poster_image
 		self.trailer_youtube_url = movie_trailer
-
-    #Instance Method to show trailer on browser using movie youtube url
-	def show_trailer(self):  
+		
+		
+	def show_trailer(self):
+	    """ Opens trailer in a web browser """	
 	    webbrowser.open(self.trailer_youtube_url)	
