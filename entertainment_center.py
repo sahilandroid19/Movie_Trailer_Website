@@ -7,7 +7,7 @@ import fresh_tomatoes
 
 def init_movies():
     toy_story = media.Movie("Toy Story",
-    "A story of a boy and his toys that come to life"
+    "A story of a boy and his toys that come to life",
     "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",  # noqa
     "https://www.youtube.com/watch2v=vwy3H85NOG4")
 
